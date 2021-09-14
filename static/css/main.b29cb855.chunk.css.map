@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACI,wBAA4B,CAC5B,iBAGJ,CAGA,OACI,YAAa,CACb,WACJ","file":"main.b29cb855.chunk.css","sourcesContent":["body{\r\n    background-color: whitesmoke;\r\n    text-align: center;\r\n   \r\n\r\n}\r\n\r\n\r\nbutton{\r\n    padding: 10px;\r\n    margin: 10px;\r\n}"]}
